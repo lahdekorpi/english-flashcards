@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+		<title>English With Lucas</title>
+		<style>
+			/* Base styles (mobile-first approach) */
+			body {
+				font-family: Arial, sans-serif;
+				margin: 0;
+				padding: 0;
+				background-color: #f0f0f0;
+				display: flex;
+				justify-content: center;
+				align-items: center;
+				min-height: 100vh;
+				box-sizing: border-box;
+			}
+
+			#game-container {
+				width: 100%;
+				max-width: 600px;
+				padding: 1rem;
+				box-sizing: border-box;
+			}
+
+			#status-bar {
+				display: flex;
+				justify-content: space-between;
+				margin-bottom: 1rem;
+				font-size: 1rem;
+			}
+
+			#question {
+				font-size: 1.2rem;
+				font-weight: bold;
+				text-align: center;
+				margin-bottom: 1rem;
+			}
+
+			#emoji-grid {
+				display: grid;
+				grid-template-columns: repeat(2, 1fr);
+				gap: 0.5rem;
+			}
+
+			.emoji-card {
+				aspect-ratio: 1;
+				display: flex;
+				align-items: center;
+				justify-content: center;
+				background-color: #fff;
+				border-radius: 0.5rem;
+				cursor: pointer;
+				transition: transform 0.3s ease;
+			}
+
+			.emoji-card:hover {
+				transform: scale(1.05);
+			}
+
+			.emoji-card img {
+				width: 60%;
+				height: 60%;
+				object-fit: contain;
+			}
+
+			.correct {
+				background-color: #90ee90;
+			}
+
+			.incorrect {
+				background-color: #ffa07a;
+			}
+
+			button {
+				width: 100%;
+				padding: 20px;
+				border: solid 1px black;
+				border-radius: 8px;
+				background: white;
+			}
+
+			/* Tablet and desktop styles */
+			@media (min-width: 768px) {
+				body {
+					padding: 2rem;
+				}
+
+				#game-container {
+					background-color: white;
+					border-radius: 10px;
+					box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+					padding: 2rem;
+				}
+
+				#status-bar {
+					font-size: 1.2rem;
+				}
+
+				#question {
+					font-size: 1.5rem;
+				}
+
+				#emoji-grid {
+					grid-template-columns: repeat(3, 1fr);
+					gap: 1rem;
+				}
+
+				.emoji-card {
+					border: 2px solid #ddd;
+				}
+			}
+		</style>
+	</head>
+	<body>
+		<div id="game-container">
+			<div id="status-bar">
+				<span id="progress">Progress: 0/0</span>
+				<span id="score">Score: 0</span>
+			</div>
+			<div id="question"></div>
+			<div id="emoji-grid"></div>
+		</div>
+
+		<script>
+			// Game state object
+			const gameState = {
+				emojiPool: [],
+				currentQuestion: null,
+				score: 0,
+				totalQuestions: 0,
+				remainingEmojis: 0,
+				expectedQuestions: 0, // New property to store the expected number of questions
+				answeredQuestions: 0, // New property to track answered questions
+			};
+
+			// DOM elements
+			const progressElement = document.getElementById("progress");
+			const scoreElement = document.getElementById("score");
+			const questionElement = document.getElementById("question");
+			const emojiGridElement = document.getElementById("emoji-grid");
+
+			// Load emoji data
+			async function loadEmojiData() {
+				try {
+					const response = await fetch("output.json");
+					const data = await response.json();
+					gameState.emojiPool = data;
+					gameState.remainingEmojis = data.length;
+					gameState.expectedQuestions = Math.floor(data.length / 6); // Calculate expected questions
+					startGame();
+				} catch (error) {
+					console.error("Error loading emoji data:", error);
+				}
+			}
+
+			// Start the game
+			function startGame() {
+				gameState.score = 0;
+				gameState.totalQuestions = 0;
+				gameState.answeredQuestions = 0;
+				nextQuestion();
+			}
+
+			// Prepare and display the next question
+			function nextQuestion() {
+				if (gameState.remainingEmojis < 6) {
+					endGame();
+					return;
+				}
+
+				const selectedEmojis = selectRandomEmojis(6);
+				gameState.currentQuestion = selectedEmojis[Math.floor(Math.random() * selectedEmojis.length)];
+				gameState.totalQuestions++;
+				updateStatusBar();
+
+				questionElement.textContent = `${gameState.currentQuestion.name}`;
+				displayEmojis(selectedEmojis);
+			}
+
+			// Select random emojis from the pool
+			function selectRandomEmojis(n) {
+				const selected = [];
+				for (let i = 0; i < n; i++) {
+					const index = Math.floor(Math.random() * gameState.emojiPool.length);
+					selected.push(gameState.emojiPool[index]);
+					gameState.emojiPool.splice(index, 1);
+					gameState.remainingEmojis--;
+				}
+				return selected;
+			}
+
+			// Shuffle array using Fisher-Yates algorithm
+			function shuffleArray(array) {
+				for (let i = array.length - 1; i > 0; i--) {
+					const j = Math.floor(Math.random() * (i + 1));
+					[array[i], array[j]] = [array[j], array[i]];
+				}
+				return array;
+			}
+
+			// Display emojis in the grid
+			function displayEmojis(emojis) {
+				emojiGridElement.innerHTML = "";
+				shuffleArray(emojis).forEach((emoji) => {
+					const card = document.createElement("div");
+					card.className = "emoji-card";
+					card.innerHTML = `<img src="svg/${emoji.filename}" alt="${emoji.name}">`;
+					card.addEventListener("click", () => checkAnswer(emoji));
+					emojiGridElement.appendChild(card);
+				});
+			}
+
+			// Check if the selected emoji is correct
+			function checkAnswer(selectedEmoji) {
+				const isCorrect = selectedEmoji === gameState.currentQuestion;
+				if (isCorrect) gameState.score++;
+				gameState.answeredQuestions++;
+				showFeedback(selectedEmoji, isCorrect);
+				updateStatusBar();
+				setTimeout(nextQuestion, 500);
+			}
+
+			// Show feedback for the selected emoji
+			function showFeedback(selectedEmoji, isCorrect) {
+				const cards = emojiGridElement.children;
+				for (let card of cards) {
+					const cardEmoji = card.querySelector("img").alt;
+					if (cardEmoji === selectedEmoji.name) {
+						card.classList.add(isCorrect ? "correct" : "incorrect");
+					}
+					card.style.pointerEvents = "none";
+				}
+			}
+
+			// Update the status bar
+			function updateStatusBar() {
+				progressElement.textContent = `Progress: ${gameState.totalQuestions}/${gameState.expectedQuestions}`;
+
+				if (gameState.answeredQuestions === 0) {
+					scoreElement.textContent = `Score: 0`;
+				} else {
+					const percentage = Math.round((gameState.score / gameState.answeredQuestions) * 100);
+					scoreElement.textContent = `Score: ${gameState.score} (${percentage}%)`;
+				}
+			}
+
+			// End the game
+			function endGame() {
+				const percentage = Math.round((gameState.score / gameState.totalQuestions) * 100);
+				questionElement.textContent = `Game Over! Final Score: ${gameState.score}/${gameState.totalQuestions} (${percentage}%)`;
+				emojiGridElement.innerHTML = '<button onclick="window.location.reload()">Play Again</button>';
+			}
+
+			// Handle orientation changes
+			function handleOrientationChange() {
+				// You can add specific logic here if needed for orientation changes
+				// For now, our responsive design handles most cases automatically
+			}
+
+			// Add event listener for orientation changes
+			window.addEventListener("orientationchange", handleOrientationChange);
+
+			// Initialize the game
+			loadEmojiData();
+		</script>
+	</body>
+</html>

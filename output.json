@@ -1,0 +1,1754 @@
+[
+  {
+    "short_name": "dog",
+    "name": "Dog",
+    "filename": "1f436.svg",
+    "unified": "1F436",
+    "category": "Animals & Nature",
+    "subcategory": "animal-mammal"
+  },
+  {
+    "short_name": "cat",
+    "name": "Cat",
+    "filename": "1f431.svg",
+    "unified": "1F431",
+    "category": "Animals & Nature",
+    "subcategory": "animal-mammal"
+  },
+  {
+    "short_name": "mouse",
+    "name": "Mouse",
+    "filename": "1f42d.svg",
+    "unified": "1F42D",
+    "category": "Animals & Nature",
+    "subcategory": "animal-mammal"
+  },
+  {
+    "short_name": "cow",
+    "name": "Cow",
+    "filename": "1f42e.svg",
+    "unified": "1F42E",
+    "category": "Animals & Nature",
+    "subcategory": "animal-mammal"
+  },
+  {
+    "short_name": "pig",
+    "name": "Pig",
+    "filename": "1f437.svg",
+    "unified": "1F437",
+    "category": "Animals & Nature",
+    "subcategory": "animal-mammal"
+  },
+  {
+    "short_name": "rabbit",
+    "name": "Rabbit",
+    "filename": "1f430.svg",
+    "unified": "1F430",
+    "category": "Animals & Nature",
+    "subcategory": "animal-mammal"
+  },
+  {
+    "short_name": "tiger",
+    "name": "Tiger",
+    "filename": "1f42f.svg",
+    "unified": "1F42F",
+    "category": "Animals & Nature",
+    "subcategory": "animal-mammal"
+  },
+  {
+    "short_name": "elephant",
+    "name": "Elephant",
+    "filename": "1f418.svg",
+    "unified": "1F418",
+    "category": "Animals & Nature",
+    "subcategory": "animal-mammal"
+  },
+  {
+    "short_name": "monkey",
+    "name": "Monkey",
+    "filename": "1f412.svg",
+    "unified": "1F412",
+    "category": "Animals & Nature",
+    "subcategory": "animal-mammal"
+  },
+  {
+    "short_name": "bear",
+    "name": "Bear",
+    "filename": "1f43b-200d-2744-fe0f.svg",
+    "unified": "1F43B",
+    "category": "Animals & Nature",
+    "subcategory": "animal-mammal"
+  },
+  {
+    "short_name": "panda_face",
+    "name": "Panda",
+    "filename": "1f43c.svg",
+    "unified": "1F43C",
+    "category": "Animals & Nature",
+    "subcategory": "animal-mammal"
+  },
+  {
+    "short_name": "koala",
+    "name": "Koala",
+    "filename": "1f428.svg",
+    "unified": "1F428",
+    "category": "Animals & Nature",
+    "subcategory": "animal-mammal"
+  },
+  {
+    "short_name": "chicken",
+    "name": "Chicken",
+    "filename": "1f414.svg",
+    "unified": "1F414",
+    "category": "Animals & Nature",
+    "subcategory": "animal-bird"
+  },
+  {
+    "short_name": "bird",
+    "name": "Bird",
+    "filename": "1f426.svg",
+    "unified": "1F426",
+    "category": "Animals & Nature",
+    "subcategory": "animal-bird"
+  },
+  {
+    "short_name": "penguin",
+    "name": "Penguin",
+    "filename": "1f427.svg",
+    "unified": "1F427",
+    "category": "Animals & Nature",
+    "subcategory": "animal-bird"
+  },
+  {
+    "short_name": "frog",
+    "name": "Frog",
+    "filename": "1f438.svg",
+    "unified": "1F438",
+    "category": "Animals & Nature",
+    "subcategory": "animal-amphibian"
+  },
+  {
+    "short_name": "crocodile",
+    "name": "Crocodile",
+    "filename": "1f40a.svg",
+    "unified": "1F40A",
+    "category": "Animals & Nature",
+    "subcategory": "animal-reptile"
+  },
+  {
+    "short_name": "whale",
+    "name": "Whale",
+    "filename": "1f433.svg",
+    "unified": "1F433",
+    "category": "Animals & Nature",
+    "subcategory": "animal-marine"
+  },
+  {
+    "short_name": "dolphin",
+    "name": "Dolphin",
+    "filename": "1f42c.svg",
+    "unified": "1F42C",
+    "category": "Animals & Nature",
+    "subcategory": "animal-marine"
+  },
+  {
+    "short_name": "fish",
+    "name": "Fish",
+    "filename": "1f41f.svg",
+    "unified": "1F41F",
+    "category": "Animals & Nature",
+    "subcategory": "animal-marine"
+  },
+  {
+    "short_name": "octopus",
+    "name": "Octopus",
+    "filename": "1f419.svg",
+    "unified": "1F419",
+    "category": "Animals & Nature",
+    "subcategory": "animal-marine"
+  },
+  {
+    "short_name": "snail",
+    "name": "Snail",
+    "filename": "1f40c.svg",
+    "unified": "1F40C",
+    "category": "Animals & Nature",
+    "subcategory": "animal-bug"
+  },
+  {
+    "short_name": "butterfly",
+    "name": "Butterfly",
+    "filename": "1f98b.svg",
+    "unified": "1F98B",
+    "category": "Animals & Nature",
+    "subcategory": "animal-bug"
+  },
+  {
+    "short_name": "ant",
+    "name": "Ant",
+    "filename": "1f41c.svg",
+    "unified": "1F41C",
+    "category": "Animals & Nature",
+    "subcategory": "animal-bug"
+  },
+  {
+    "short_name": "horse",
+    "name": "Horse",
+    "filename": "1f434.svg",
+    "unified": "1F434",
+    "category": "Animals & Nature",
+    "subcategory": "animal-mammal"
+  },
+  {
+    "short_name": "unicorn_face",
+    "name": "Unicorn",
+    "filename": "1f984.svg",
+    "unified": "1F984",
+    "category": "Animals & Nature",
+    "subcategory": "animal-mammal"
+  },
+  {
+    "short_name": "dragon",
+    "name": "Dragon",
+    "filename": "1f409.svg",
+    "unified": "1F409",
+    "category": "Animals & Nature",
+    "subcategory": "animal-reptile"
+  },
+  {
+    "short_name": "apple",
+    "name": "Apple",
+    "filename": "1f34e.svg",
+    "unified": "1F34E",
+    "category": "Food & Drink",
+    "subcategory": "food-fruit"
+  },
+  {
+    "short_name": "banana",
+    "name": "Banana",
+    "filename": "1f34c.svg",
+    "unified": "1F34C",
+    "category": "Food & Drink",
+    "subcategory": "food-fruit"
+  },
+  {
+    "short_name": "grapes",
+    "name": "Grapes",
+    "filename": "1f347.svg",
+    "unified": "1F347",
+    "category": "Food & Drink",
+    "subcategory": "food-fruit"
+  },
+  {
+    "short_name": "watermelon",
+    "name": "Watermelon",
+    "filename": "1f349.svg",
+    "unified": "1F349",
+    "category": "Food & Drink",
+    "subcategory": "food-fruit"
+  },
+  {
+    "short_name": "strawberry",
+    "name": "Strawberry",
+    "filename": "1f353.svg",
+    "unified": "1F353",
+    "category": "Food & Drink",
+    "subcategory": "food-fruit"
+  },
+  {
+    "short_name": "lemon",
+    "name": "Lemon",
+    "filename": "1f34b.svg",
+    "unified": "1F34B",
+    "category": "Food & Drink",
+    "subcategory": "food-fruit"
+  },
+  {
+    "short_name": "cherries",
+    "name": "Cherries",
+    "filename": "1f352.svg",
+    "unified": "1F352",
+    "category": "Food & Drink",
+    "subcategory": "food-fruit"
+  },
+  {
+    "short_name": "peach",
+    "name": "Peach",
+    "filename": "1f351.svg",
+    "unified": "1F351",
+    "category": "Food & Drink",
+    "subcategory": "food-fruit"
+  },
+  {
+    "short_name": "pineapple",
+    "name": "Pineapple",
+    "filename": "1f34d.svg",
+    "unified": "1F34D",
+    "category": "Food & Drink",
+    "subcategory": "food-fruit"
+  },
+  {
+    "short_name": "mango",
+    "name": "Mango",
+    "filename": "1f96d.svg",
+    "unified": "1F96D",
+    "category": "Food & Drink",
+    "subcategory": "food-fruit"
+  },
+  {
+    "short_name": "carrot",
+    "name": "Carrot",
+    "filename": "1f955.svg",
+    "unified": "1F955",
+    "category": "Food & Drink",
+    "subcategory": "food-vegetable"
+  },
+  {
+    "short_name": "corn",
+    "name": "Corn",
+    "filename": "1f33d.svg",
+    "unified": "1F33D",
+    "category": "Food & Drink",
+    "subcategory": "food-vegetable"
+  },
+  {
+    "short_name": "mushroom",
+    "name": "Mushroom",
+    "filename": "1f344.svg",
+    "unified": "1F344",
+    "category": "Animals & Nature",
+    "subcategory": "plant-other"
+  },
+  {
+    "short_name": "bread",
+    "name": "Bread",
+    "filename": "1f35e.svg",
+    "unified": "1F35E",
+    "category": "Food & Drink",
+    "subcategory": "food-prepared"
+  },
+  {
+    "short_name": "cheese_wedge",
+    "name": "Cheese",
+    "filename": "1f9c0.svg",
+    "unified": "1F9C0",
+    "category": "Food & Drink",
+    "subcategory": "food-prepared"
+  },
+  {
+    "short_name": "egg",
+    "name": "Egg",
+    "filename": "1f95a.svg",
+    "unified": "1F95A",
+    "category": "Food & Drink",
+    "subcategory": "food-prepared"
+  },
+  {
+    "short_name": "hamburger",
+    "name": "Hamburger",
+    "filename": "1f354.svg",
+    "unified": "1F354",
+    "category": "Food & Drink",
+    "subcategory": "food-prepared"
+  },
+  {
+    "short_name": "pizza",
+    "name": "Pizza",
+    "filename": "1f355.svg",
+    "unified": "1F355",
+    "category": "Food & Drink",
+    "subcategory": "food-prepared"
+  },
+  {
+    "short_name": "taco",
+    "name": "Taco",
+    "filename": "1f32e.svg",
+    "unified": "1F32E",
+    "category": "Food & Drink",
+    "subcategory": "food-prepared"
+  },
+  {
+    "short_name": "cake",
+    "name": "Cake",
+    "filename": "1f370.svg",
+    "unified": "1F370",
+    "category": "Food & Drink",
+    "subcategory": "food-sweet"
+  },
+  {
+    "short_name": "ice_cream",
+    "name": "Ice Cream",
+    "filename": "1f368.svg",
+    "unified": "1F368",
+    "category": "Food & Drink",
+    "subcategory": "food-sweet"
+  },
+  {
+    "short_name": "doughnut",
+    "name": "Donut",
+    "filename": "1f369.svg",
+    "unified": "1F369",
+    "category": "Food & Drink",
+    "subcategory": "food-sweet"
+  },
+  {
+    "short_name": "cookie",
+    "name": "Cookie",
+    "filename": "1f36a.svg",
+    "unified": "1F36A",
+    "category": "Food & Drink",
+    "subcategory": "food-sweet"
+  },
+  {
+    "short_name": "coffee",
+    "name": "Coffee",
+    "filename": "2615.svg",
+    "unified": "2615",
+    "category": "Food & Drink",
+    "subcategory": "drink"
+  },
+  {
+    "short_name": "tea",
+    "name": "Tea",
+    "filename": "1f375.svg",
+    "unified": "1F375",
+    "category": "Food & Drink",
+    "subcategory": "drink"
+  },
+  {
+    "short_name": "taxi",
+    "name": "Taxi",
+    "filename": "1f695.svg",
+    "unified": "1F695",
+    "category": "Travel & Places",
+    "subcategory": "transport-ground"
+  },
+  {
+    "short_name": "bus",
+    "name": "Bus",
+    "filename": "1f68c.svg",
+    "unified": "1F68C",
+    "category": "Travel & Places",
+    "subcategory": "transport-ground"
+  },
+  {
+    "short_name": "truck",
+    "name": "Truck",
+    "filename": "1f69a.svg",
+    "unified": "1F69A",
+    "category": "Travel & Places",
+    "subcategory": "transport-ground"
+  },
+  {
+    "short_name": "airplane",
+    "name": "Airplane",
+    "filename": "2708.svg",
+    "unified": "2708-FE0F",
+    "category": "Travel & Places",
+    "subcategory": "transport-air"
+  },
+  {
+    "short_name": "helicopter",
+    "name": "Helicopter",
+    "filename": "1f681.svg",
+    "unified": "1F681",
+    "category": "Travel & Places",
+    "subcategory": "transport-air"
+  },
+  {
+    "short_name": "rocket",
+    "name": "Rocket",
+    "filename": "1f680.svg",
+    "unified": "1F680",
+    "category": "Travel & Places",
+    "subcategory": "transport-air"
+  },
+  {
+    "short_name": "ship",
+    "name": "Ship",
+    "filename": "1f6a2.svg",
+    "unified": "1F6A2",
+    "category": "Travel & Places",
+    "subcategory": "transport-water"
+  },
+  {
+    "short_name": "book",
+    "name": "Book",
+    "filename": "1f4d6.svg",
+    "unified": "1F4D6",
+    "category": "Objects",
+    "subcategory": "book-paper"
+  },
+  {
+    "short_name": "pencil2",
+    "name": "Pencil",
+    "filename": "270f.svg",
+    "unified": "270F-FE0F",
+    "category": "Objects",
+    "subcategory": "writing"
+  },
+  {
+    "short_name": "scissors",
+    "name": "Scissors",
+    "filename": "2702.svg",
+    "unified": "2702-FE0F",
+    "category": "Objects",
+    "subcategory": "office"
+  },
+  {
+    "short_name": "alarm_clock",
+    "name": "Clock",
+    "filename": "23f0.svg",
+    "unified": "23F0",
+    "category": "Travel & Places",
+    "subcategory": "time"
+  },
+  {
+    "short_name": "desktop_computer",
+    "name": "Computer",
+    "filename": "1f5a5.svg",
+    "unified": "1F5A5-FE0F",
+    "category": "Objects",
+    "subcategory": "computer"
+  },
+  {
+    "short_name": "umbrella",
+    "name": "Umbrella",
+    "filename": "2602.svg",
+    "unified": "2602-FE0F",
+    "category": "Travel & Places",
+    "subcategory": "sky & weather"
+  },
+  {
+    "short_name": "key",
+    "name": "Key",
+    "filename": "1f511.svg",
+    "unified": "1F511",
+    "category": "Objects",
+    "subcategory": "lock"
+  },
+  {
+    "short_name": "house",
+    "name": "House",
+    "filename": "1f3e0.svg",
+    "unified": "1F3E0",
+    "category": "Travel & Places",
+    "subcategory": "place-building"
+  },
+  {
+    "short_name": "school",
+    "name": "School",
+    "filename": "1f3eb.svg",
+    "unified": "1F3EB",
+    "category": "Travel & Places",
+    "subcategory": "place-building"
+  },
+  {
+    "short_name": "hospital",
+    "name": "Hospital",
+    "filename": "1f3e5.svg",
+    "unified": "1F3E5",
+    "category": "Travel & Places",
+    "subcategory": "place-building"
+  },
+  {
+    "short_name": "church",
+    "name": "Church",
+    "filename": "26ea.svg",
+    "unified": "26EA",
+    "category": "Travel & Places",
+    "subcategory": "place-religious"
+  },
+  {
+    "short_name": "tent",
+    "name": "Tent",
+    "filename": "26fa.svg",
+    "unified": "26FA",
+    "category": "Travel & Places",
+    "subcategory": "place-other"
+  },
+  {
+    "short_name": "boy",
+    "name": "Boy",
+    "filename": "1f466-1f3fb.svg",
+    "unified": "1F466",
+    "category": "People & Body",
+    "subcategory": "person"
+  },
+  {
+    "short_name": "girl",
+    "name": "Girl",
+    "filename": "1f467-1f3fb.svg",
+    "unified": "1F467",
+    "category": "People & Body",
+    "subcategory": "person"
+  },
+  {
+    "short_name": "man",
+    "name": "Man",
+    "filename": "1f468-1f3fb-200d-1f33e.svg",
+    "unified": "1F468",
+    "category": "People & Body",
+    "subcategory": "person"
+  },
+  {
+    "short_name": "woman",
+    "name": "Woman",
+    "filename": "1f469-1f3fb-200d-1f33e.svg",
+    "unified": "1F469",
+    "category": "People & Body",
+    "subcategory": "person"
+  },
+  {
+    "short_name": "baby",
+    "name": "Baby",
+    "filename": "1f476-1f3fb.svg",
+    "unified": "1F476",
+    "category": "People & Body",
+    "subcategory": "person"
+  },
+  {
+    "short_name": "family",
+    "name": "Family",
+    "filename": "1f46a.svg",
+    "unified": "1F46A",
+    "category": "People & Body",
+    "subcategory": "person-symbol"
+  },
+  {
+    "short_name": "crescent_moon",
+    "name": "Moon",
+    "filename": "1f319.svg",
+    "unified": "1F319",
+    "category": "Travel & Places",
+    "subcategory": "sky & weather"
+  },
+  {
+    "short_name": "star",
+    "name": "Star",
+    "filename": "2b50.svg",
+    "unified": "2B50",
+    "category": "Travel & Places",
+    "subcategory": "sky & weather"
+  },
+  {
+    "short_name": "cloud",
+    "name": "Cloud",
+    "filename": "2601.svg",
+    "unified": "2601-FE0F",
+    "category": "Travel & Places",
+    "subcategory": "sky & weather"
+  },
+  {
+    "short_name": "umbrella_with_rain_drops",
+    "name": "Rain",
+    "filename": "2614.svg",
+    "unified": "2614",
+    "category": "Travel & Places",
+    "subcategory": "sky & weather"
+  },
+  {
+    "short_name": "snowflake",
+    "name": "Snow",
+    "filename": "2744.svg",
+    "unified": "2744-FE0F",
+    "category": "Travel & Places",
+    "subcategory": "sky & weather"
+  },
+  {
+    "short_name": "fire",
+    "name": "Fire",
+    "filename": "1f525.svg",
+    "unified": "1F525",
+    "category": "Travel & Places",
+    "subcategory": "sky & weather"
+  },
+  {
+    "short_name": "mountain",
+    "name": "Mountain",
+    "filename": "26f0.svg",
+    "unified": "26F0-FE0F",
+    "category": "Travel & Places",
+    "subcategory": "place-geographic"
+  },
+  {
+    "short_name": "deciduous_tree",
+    "name": "Tree",
+    "filename": "1f333.svg",
+    "unified": "1F333",
+    "category": "Animals & Nature",
+    "subcategory": "plant-other"
+  },
+  {
+    "short_name": "cherry_blossom",
+    "name": "Cherry Blossom",
+    "filename": "1f338.svg",
+    "unified": "1F338",
+    "category": "Animals & Nature",
+    "subcategory": "plant-flower"
+  },
+  {
+    "short_name": "fallen_leaf",
+    "name": "Leaf",
+    "filename": "1f342.svg",
+    "unified": "1F342",
+    "category": "Animals & Nature",
+    "subcategory": "plant-other"
+  },
+  {
+    "short_name": "basketball",
+    "name": "Basketball",
+    "filename": "1f3c0.svg",
+    "unified": "1F3C0",
+    "category": "Activities",
+    "subcategory": "sport"
+  },
+  {
+    "short_name": "baseball",
+    "name": "Baseball",
+    "filename": "26be.svg",
+    "unified": "26BE",
+    "category": "Activities",
+    "subcategory": "sport"
+  },
+  {
+    "short_name": "tennis",
+    "name": "Tennis",
+    "filename": "1f3be.svg",
+    "unified": "1F3BE",
+    "category": "Activities",
+    "subcategory": "sport"
+  },
+  {
+    "short_name": "rugby_football",
+    "name": "Football",
+    "filename": "1f3c9.svg",
+    "unified": "1F3C9",
+    "category": "Activities",
+    "subcategory": "sport"
+  },
+  {
+    "short_name": "golf",
+    "name": "Golf",
+    "filename": "26f3.svg",
+    "unified": "26F3",
+    "category": "Activities",
+    "subcategory": "sport"
+  },
+  {
+    "short_name": "skier",
+    "name": "Skiing",
+    "filename": "26f7-1f3fb.svg",
+    "unified": "26F7-FE0F",
+    "category": "People & Body",
+    "subcategory": "person-sport"
+  },
+  {
+    "short_name": "surfer",
+    "name": "Surfing",
+    "filename": "1f3c4-1f3fb-200d-2640-fe0f.svg",
+    "unified": "1F3C4",
+    "category": "People & Body",
+    "subcategory": "person-sport"
+  },
+  {
+    "short_name": "swimmer",
+    "name": "Swimming",
+    "filename": "1f3ca-1f3fb-200d-2640-fe0f.svg",
+    "unified": "1F3CA",
+    "category": "People & Body",
+    "subcategory": "person-sport"
+  },
+  {
+    "short_name": "dancer",
+    "name": "Dancing",
+    "filename": "1f483-1f3fb.svg",
+    "unified": "1F483",
+    "category": "People & Body",
+    "subcategory": "person-activity"
+  },
+  {
+    "short_name": "musical_note",
+    "name": "Music",
+    "filename": "1f3b5.svg",
+    "unified": "1F3B5",
+    "category": "Objects",
+    "subcategory": "music"
+  },
+  {
+    "short_name": "thinking_face",
+    "name": "Thinking",
+    "filename": "1f914.svg",
+    "unified": "1F914",
+    "category": "Smileys & Emotion",
+    "subcategory": "face-hand"
+  },
+  {
+    "short_name": "telephone_receiver",
+    "name": "Telephone",
+    "filename": "1f4de.svg",
+    "unified": "1F4DE",
+    "category": "Objects",
+    "subcategory": "phone"
+  },
+  {
+    "short_name": "hourglass",
+    "name": "Hourglass",
+    "filename": "231b.svg",
+    "unified": "231B",
+    "category": "Travel & Places",
+    "subcategory": "time"
+  },
+  {
+    "short_name": "gift",
+    "name": "Gift",
+    "filename": "1f381.svg",
+    "unified": "1F381",
+    "category": "Activities",
+    "subcategory": "event"
+  },
+  {
+    "short_name": "balloon",
+    "name": "Balloon",
+    "filename": "1f388.svg",
+    "unified": "1F388",
+    "category": "Activities",
+    "subcategory": "event"
+  },
+  {
+    "short_name": "trophy",
+    "name": "Trophy",
+    "filename": "1f3c6.svg",
+    "unified": "1F3C6",
+    "category": "Activities",
+    "subcategory": "award-medal"
+  },
+  {
+    "short_name": "medal",
+    "name": "Medal",
+    "filename": "1f396.svg",
+    "unified": "1F396-FE0F",
+    "category": "Activities",
+    "subcategory": "award-medal"
+  },
+  {
+    "short_name": "sunglasses",
+    "name": "Cool",
+    "filename": "1f60e.svg",
+    "unified": "1F60E",
+    "category": "Smileys & Emotion",
+    "subcategory": "face-glasses"
+  },
+  {
+    "short_name": "robot_face",
+    "name": "Robot",
+    "filename": "1f916.svg",
+    "unified": "1F916",
+    "category": "Smileys & Emotion",
+    "subcategory": "face-costume"
+  },
+  {
+    "short_name": "brain",
+    "name": "Brain",
+    "filename": "1f9e0.svg",
+    "unified": "1F9E0",
+    "category": "People & Body",
+    "subcategory": "body-parts"
+  },
+  {
+    "short_name": "dna",
+    "name": "DNA",
+    "filename": "1f9ec.svg",
+    "unified": "1F9EC",
+    "category": "Objects",
+    "subcategory": "science"
+  },
+  {
+    "short_name": "microscope",
+    "name": "Microscope",
+    "filename": "1f52c.svg",
+    "unified": "1F52C",
+    "category": "Objects",
+    "subcategory": "science"
+  },
+  {
+    "short_name": "telescope",
+    "name": "Telescope",
+    "filename": "1f52d.svg",
+    "unified": "1F52D",
+    "category": "Objects",
+    "subcategory": "science"
+  },
+  {
+    "short_name": "earth_africa",
+    "name": "Earth",
+    "filename": "1f30d.svg",
+    "unified": "1F30D",
+    "category": "Travel & Places",
+    "subcategory": "place-map"
+  },
+  {
+    "short_name": "satellite",
+    "name": "Satellite",
+    "filename": "1f6f0.svg",
+    "unified": "1F6F0-FE0F",
+    "category": "Travel & Places",
+    "subcategory": "transport-air"
+  },
+  {
+    "short_name": "pill",
+    "name": "Medicine",
+    "filename": "1f48a.svg",
+    "unified": "1F48A",
+    "category": "Objects",
+    "subcategory": "medical"
+  },
+  {
+    "short_name": "syringe",
+    "name": "Syringe",
+    "filename": "1f489.svg",
+    "unified": "1F489",
+    "category": "Objects",
+    "subcategory": "medical"
+  },
+  {
+    "short_name": "ambulance",
+    "name": "Ambulance",
+    "filename": "1f691.svg",
+    "unified": "1F691",
+    "category": "Travel & Places",
+    "subcategory": "transport-ground"
+  },
+  {
+    "short_name": "police_car",
+    "name": "Police Car",
+    "filename": "1f693.svg",
+    "unified": "1F693",
+    "category": "Travel & Places",
+    "subcategory": "transport-ground"
+  },
+  {
+    "short_name": "fire_engine",
+    "name": "Fire Truck",
+    "filename": "1f692.svg",
+    "unified": "1F692",
+    "category": "Travel & Places",
+    "subcategory": "transport-ground"
+  },
+  {
+    "short_name": "construction_worker",
+    "name": "Worker",
+    "filename": "1f477-1f3fb-200d-2640-fe0f.svg",
+    "unified": "1F477",
+    "category": "People & Body",
+    "subcategory": "person-role"
+  },
+  {
+    "short_name": "hammer",
+    "name": "Hammer",
+    "filename": "1f528.svg",
+    "unified": "1F528",
+    "category": "Objects",
+    "subcategory": "tool"
+  },
+  {
+    "short_name": "wrench",
+    "name": "Wrench",
+    "filename": "1f527.svg",
+    "unified": "1F527",
+    "category": "Objects",
+    "subcategory": "tool"
+  },
+  {
+    "short_name": "gear",
+    "name": "Gear",
+    "filename": "2699.svg",
+    "unified": "2699-FE0F",
+    "category": "Objects",
+    "subcategory": "tool"
+  },
+  {
+    "short_name": "anchor",
+    "name": "Anchor",
+    "filename": "2693.svg",
+    "unified": "2693",
+    "category": "Travel & Places",
+    "subcategory": "transport-water"
+  },
+  {
+    "short_name": "fork_and_knife",
+    "name": "Fork",
+    "filename": "1f374.svg",
+    "unified": "1F374",
+    "category": "Food & Drink",
+    "subcategory": "dishware"
+  },
+  {
+    "short_name": "notebook",
+    "name": "Notebook",
+    "filename": "1f4d3.svg",
+    "unified": "1F4D3",
+    "category": "Objects",
+    "subcategory": "book-paper"
+  },
+  {
+    "short_name": "calendar",
+    "name": "Calendar",
+    "filename": "1f4c6.svg",
+    "unified": "1F4C6",
+    "category": "Objects",
+    "subcategory": "office"
+  },
+  {
+    "short_name": "pushpin",
+    "name": "Pushpin",
+    "filename": "1f4cc.svg",
+    "unified": "1F4CC",
+    "category": "Objects",
+    "subcategory": "office"
+  },
+  {
+    "short_name": "compass",
+    "name": "Compass",
+    "filename": "1f9ed.svg",
+    "unified": "1F9ED",
+    "category": "Travel & Places",
+    "subcategory": "place-map"
+  },
+  {
+    "short_name": "volcano",
+    "name": "Volcano",
+    "filename": "1f30b.svg",
+    "unified": "1F30B",
+    "category": "Travel & Places",
+    "subcategory": "place-geographic"
+  },
+  {
+    "short_name": "beach_with_umbrella",
+    "name": "Beach",
+    "filename": "1f3d6.svg",
+    "unified": "1F3D6-FE0F",
+    "category": "Travel & Places",
+    "subcategory": "place-geographic"
+  },
+  {
+    "short_name": "rainbow",
+    "name": "Rainbow",
+    "filename": "1f308.svg",
+    "unified": "1F308",
+    "category": "Travel & Places",
+    "subcategory": "sky & weather"
+  },
+  {
+    "short_name": "money_with_wings",
+    "name": "Money",
+    "filename": "1f4b8.svg",
+    "unified": "1F4B8",
+    "category": "Objects",
+    "subcategory": "money"
+  },
+  {
+    "short_name": "credit_card",
+    "name": "Credit Card",
+    "filename": "1f4b3.svg",
+    "unified": "1F4B3",
+    "category": "Objects",
+    "subcategory": "money"
+  },
+  {
+    "short_name": "battery",
+    "name": "Battery",
+    "filename": "1f50b.svg",
+    "unified": "1F50B",
+    "category": "Objects",
+    "subcategory": "computer"
+  },
+  {
+    "short_name": "electric_plug",
+    "name": "Electricity",
+    "filename": "1f50c.svg",
+    "unified": "1F50C",
+    "category": "Objects",
+    "subcategory": "computer"
+  },
+  {
+    "short_name": "candle",
+    "name": "Candle",
+    "filename": "1f56f.svg",
+    "unified": "1F56F-FE0F",
+    "category": "Objects",
+    "subcategory": "light & video"
+  },
+  {
+    "short_name": "lock",
+    "name": "Lock",
+    "filename": "1f512.svg",
+    "unified": "1F512",
+    "category": "Objects",
+    "subcategory": "lock"
+  },
+  {
+    "short_name": "unlock",
+    "name": "Unlock",
+    "filename": "1f513.svg",
+    "unified": "1F513",
+    "category": "Objects",
+    "subcategory": "lock"
+  },
+  {
+    "short_name": "bell",
+    "name": "Bell",
+    "filename": "1f514.svg",
+    "unified": "1F514",
+    "category": "Objects",
+    "subcategory": "sound"
+  },
+  {
+    "short_name": "bed",
+    "name": "Bed",
+    "filename": "1f6cf.svg",
+    "unified": "1F6CF-FE0F",
+    "category": "Objects",
+    "subcategory": "household"
+  },
+  {
+    "short_name": "toilet",
+    "name": "Toilet",
+    "filename": "1f6bd.svg",
+    "unified": "1F6BD",
+    "category": "Objects",
+    "subcategory": "household"
+  },
+  {
+    "short_name": "shower",
+    "name": "Shower",
+    "filename": "1f6bf.svg",
+    "unified": "1F6BF",
+    "category": "Objects",
+    "subcategory": "household"
+  },
+  {
+    "short_name": "bath",
+    "name": "Bath",
+    "filename": "1f6c0-1f3fb.svg",
+    "unified": "1F6C0",
+    "category": "People & Body",
+    "subcategory": "person-resting"
+  },
+  {
+    "short_name": "briefcase",
+    "name": "Briefcase",
+    "filename": "1f4bc.svg",
+    "unified": "1F4BC",
+    "category": "Objects",
+    "subcategory": "office"
+  },
+  {
+    "short_name": "newspaper",
+    "name": "Newspaper",
+    "filename": "1f4f0.svg",
+    "unified": "1F4F0",
+    "category": "Objects",
+    "subcategory": "book-paper"
+  },
+  {
+    "short_name": "books",
+    "name": "Books",
+    "filename": "1f4da.svg",
+    "unified": "1F4DA",
+    "category": "Objects",
+    "subcategory": "book-paper"
+  },
+  {
+    "short_name": "mailbox",
+    "name": "Mailbox",
+    "filename": "1f4eb.svg",
+    "unified": "1F4EB",
+    "category": "Objects",
+    "subcategory": "mail"
+  },
+  {
+    "short_name": "link",
+    "name": "Link",
+    "filename": "1f517.svg",
+    "unified": "1F517",
+    "category": "Objects",
+    "subcategory": "tool"
+  },
+  {
+    "short_name": "door",
+    "name": "Door",
+    "filename": "1f6aa.svg",
+    "unified": "1F6AA",
+    "category": "Objects",
+    "subcategory": "household"
+  },
+  {
+    "short_name": "microphone",
+    "name": "Microphone",
+    "filename": "1f3a4.svg",
+    "unified": "1F3A4",
+    "category": "Objects",
+    "subcategory": "music"
+  },
+  {
+    "short_name": "radio",
+    "name": "Radio",
+    "filename": "1f4fb.svg",
+    "unified": "1F4FB",
+    "category": "Objects",
+    "subcategory": "music"
+  },
+  {
+    "short_name": "tv",
+    "name": "TV",
+    "filename": "1f4fa.svg",
+    "unified": "1F4FA",
+    "category": "Objects",
+    "subcategory": "light & video"
+  },
+  {
+    "short_name": "iphone",
+    "name": "Phone",
+    "filename": "1f4f1.svg",
+    "unified": "1F4F1",
+    "category": "Objects",
+    "subcategory": "phone"
+  },
+  {
+    "short_name": "printer",
+    "name": "Printer",
+    "filename": "1f5a8.svg",
+    "unified": "1F5A8-FE0F",
+    "category": "Objects",
+    "subcategory": "computer"
+  },
+  {
+    "short_name": "film_projector",
+    "name": "Projector",
+    "filename": "1f4fd.svg",
+    "unified": "1F4FD-FE0F",
+    "category": "Objects",
+    "subcategory": "light & video"
+  },
+  {
+    "short_name": "flashlight",
+    "name": "Flashlight",
+    "filename": "1f526.svg",
+    "unified": "1F526",
+    "category": "Objects",
+    "subcategory": "light & video"
+  },
+  {
+    "short_name": "wastebasket",
+    "name": "Trash",
+    "filename": "1f5d1.svg",
+    "unified": "1F5D1-FE0F",
+    "category": "Objects",
+    "subcategory": "office"
+  },
+  {
+    "short_name": "money_mouth_face",
+    "name": "Rich",
+    "filename": "1f911.svg",
+    "unified": "1F911",
+    "category": "Smileys & Emotion",
+    "subcategory": "face-tongue"
+  },
+  {
+    "short_name": "satellite_antenna",
+    "name": "Satellite Antenna",
+    "filename": "1f4e1.svg",
+    "unified": "1F4E1",
+    "category": "Objects",
+    "subcategory": "science"
+  },
+  {
+    "short_name": "camera_with_flash",
+    "name": "Camera",
+    "filename": "1f4f8.svg",
+    "unified": "1F4F8",
+    "category": "Objects",
+    "subcategory": "light & video"
+  },
+  {
+    "short_name": "label",
+    "name": "Label",
+    "filename": "1f3f7.svg",
+    "unified": "1F3F7-FE0F",
+    "category": "Objects",
+    "subcategory": "book-paper"
+  },
+  {
+    "short_name": "receipt",
+    "name": "Receipt",
+    "filename": "1f9fe.svg",
+    "unified": "1F9FE",
+    "category": "Objects",
+    "subcategory": "money"
+  },
+  {
+    "short_name": "watch",
+    "name": "Watch",
+    "filename": "231a.svg",
+    "unified": "231A",
+    "category": "Travel & Places",
+    "subcategory": "time"
+  },
+  {
+    "short_name": "mag",
+    "name": "Magnifying Glass",
+    "filename": "1f50d.svg",
+    "unified": "1F50D",
+    "category": "Objects",
+    "subcategory": "light & video"
+  },
+  {
+    "short_name": "moyai",
+    "name": "Statue",
+    "filename": "1f5ff.svg",
+    "unified": "1F5FF",
+    "category": "Objects",
+    "subcategory": "other-object"
+  },
+  {
+    "short_name": "vhs",
+    "name": "VHS",
+    "filename": "1f4fc.svg",
+    "unified": "1F4FC",
+    "category": "Objects",
+    "subcategory": "light & video"
+  },
+  {
+    "short_name": "cd",
+    "name": "CD",
+    "filename": "1f4bf.svg",
+    "unified": "1F4BF",
+    "category": "Objects",
+    "subcategory": "computer"
+  },
+  {
+    "short_name": "dvd",
+    "name": "DVD",
+    "filename": "1f4c0.svg",
+    "unified": "1F4C0",
+    "category": "Objects",
+    "subcategory": "computer"
+  },
+  {
+    "short_name": "floppy_disk",
+    "name": "Floppy Disk",
+    "filename": "1f4be.svg",
+    "unified": "1F4BE",
+    "category": "Objects",
+    "subcategory": "computer"
+  },
+  {
+    "short_name": "keyboard",
+    "name": "Keyboard",
+    "filename": "2328.svg",
+    "unified": "2328-FE0F",
+    "category": "Objects",
+    "subcategory": "computer"
+  },
+  {
+    "short_name": "video_game",
+    "name": "Game",
+    "filename": "1f3ae.svg",
+    "unified": "1F3AE",
+    "category": "Activities",
+    "subcategory": "game"
+  },
+  {
+    "short_name": "bulb",
+    "name": "Light Bulb",
+    "filename": "1f4a1.svg",
+    "unified": "1F4A1",
+    "category": "Objects",
+    "subcategory": "light & video"
+  },
+  {
+    "short_name": "package",
+    "name": "Package",
+    "filename": "1f4e6.svg",
+    "unified": "1F4E6",
+    "category": "Objects",
+    "subcategory": "mail"
+  },
+  {
+    "short_name": "postbox",
+    "name": "Postbox",
+    "filename": "1f4ee.svg",
+    "unified": "1F4EE",
+    "category": "Objects",
+    "subcategory": "mail"
+  },
+  {
+    "short_name": "paperclip",
+    "name": "Paperclip",
+    "filename": "1f4ce.svg",
+    "unified": "1F4CE",
+    "category": "Objects",
+    "subcategory": "office"
+  },
+  {
+    "short_name": "black_nib",
+    "name": "Pen",
+    "filename": "2712.svg",
+    "unified": "2712-FE0F",
+    "category": "Objects",
+    "subcategory": "writing"
+  },
+  {
+    "short_name": "file_folder",
+    "name": "Folder",
+    "filename": "1f4c1.svg",
+    "unified": "1F4C1",
+    "category": "Objects",
+    "subcategory": "office"
+  },
+  {
+    "short_name": "bank",
+    "name": "Bank",
+    "filename": "1f3e6.svg",
+    "unified": "1F3E6",
+    "category": "Travel & Places",
+    "subcategory": "place-building"
+  },
+  {
+    "short_name": "hotel",
+    "name": "Hotel",
+    "filename": "1f3e8.svg",
+    "unified": "1F3E8",
+    "category": "Travel & Places",
+    "subcategory": "place-building"
+  },
+  {
+    "short_name": "factory",
+    "name": "Factory",
+    "filename": "1f3ed.svg",
+    "unified": "1F3ED",
+    "category": "Travel & Places",
+    "subcategory": "place-building"
+  },
+  {
+    "short_name": "european_castle",
+    "name": "Castle",
+    "filename": "1f3f0.svg",
+    "unified": "1F3F0",
+    "category": "Travel & Places",
+    "subcategory": "place-building"
+  },
+  {
+    "short_name": "city_sunset",
+    "name": "City",
+    "filename": "1f306.svg",
+    "unified": "1F306",
+    "category": "Travel & Places",
+    "subcategory": "place-other"
+  },
+  {
+    "short_name": "ferris_wheel",
+    "name": "Ferris Wheel",
+    "filename": "1f3a1.svg",
+    "unified": "1F3A1",
+    "category": "Travel & Places",
+    "subcategory": "place-other"
+  },
+  {
+    "short_name": "roller_coaster",
+    "name": "Roller Coaster",
+    "filename": "1f3a2.svg",
+    "unified": "1F3A2",
+    "category": "Travel & Places",
+    "subcategory": "place-other"
+  },
+  {
+    "short_name": "carousel_horse",
+    "name": "Carousel",
+    "filename": "1f3a0.svg",
+    "unified": "1F3A0",
+    "category": "Travel & Places",
+    "subcategory": "place-other"
+  },
+  {
+    "short_name": "fountain",
+    "name": "Fountain",
+    "filename": "26f2.svg",
+    "unified": "26F2",
+    "category": "Travel & Places",
+    "subcategory": "place-other"
+  },
+  {
+    "short_name": "goal_net",
+    "name": "Goal",
+    "filename": "1f945.svg",
+    "unified": "1F945",
+    "category": "Activities",
+    "subcategory": "sport"
+  },
+  {
+    "short_name": "snowman_without_snow",
+    "name": "Snowman",
+    "filename": "26c4.svg",
+    "unified": "26C4",
+    "category": "Travel & Places",
+    "subcategory": "sky & weather"
+  },
+  {
+    "short_name": "maple_leaf",
+    "name": "Maple Leaf",
+    "filename": "1f341.svg",
+    "unified": "1F341",
+    "category": "Animals & Nature",
+    "subcategory": "plant-other"
+  },
+  {
+    "short_name": "sweat_drops",
+    "name": "Sweat",
+    "filename": "1f4a6.svg",
+    "unified": "1F4A6",
+    "category": "Smileys & Emotion",
+    "subcategory": "emotion"
+  },
+  {
+    "short_name": "droplet",
+    "name": "Droplet",
+    "filename": "1f4a7.svg",
+    "unified": "1F4A7",
+    "category": "Travel & Places",
+    "subcategory": "sky & weather"
+  },
+  {
+    "short_name": "sunflower",
+    "name": "Sunflower",
+    "filename": "1f33b.svg",
+    "unified": "1F33B",
+    "category": "Animals & Nature",
+    "subcategory": "plant-flower"
+  },
+  {
+    "short_name": "rose",
+    "name": "Rose",
+    "filename": "1f339.svg",
+    "unified": "1F339",
+    "category": "Animals & Nature",
+    "subcategory": "plant-flower"
+  },
+  {
+    "short_name": "hibiscus",
+    "name": "Hibiscus",
+    "filename": "1f33a.svg",
+    "unified": "1F33A",
+    "category": "Animals & Nature",
+    "subcategory": "plant-flower"
+  },
+  {
+    "short_name": "tulip",
+    "name": "Tulip",
+    "filename": "1f337.svg",
+    "unified": "1F337",
+    "category": "Animals & Nature",
+    "subcategory": "plant-flower"
+  },
+  {
+    "short_name": "cactus",
+    "name": "Cactus",
+    "filename": "1f335.svg",
+    "unified": "1F335",
+    "category": "Animals & Nature",
+    "subcategory": "plant-other"
+  },
+  {
+    "short_name": "palm_tree",
+    "name": "Palm Tree",
+    "filename": "1f334.svg",
+    "unified": "1F334",
+    "category": "Animals & Nature",
+    "subcategory": "plant-other"
+  },
+  {
+    "short_name": "seedling",
+    "name": "Seedling",
+    "filename": "1f331.svg",
+    "unified": "1F331",
+    "category": "Animals & Nature",
+    "subcategory": "plant-other"
+  },
+  {
+    "short_name": "wolf",
+    "name": "Wolf",
+    "filename": "1f43a.svg",
+    "unified": "1F43A",
+    "category": "Animals & Nature",
+    "subcategory": "animal-mammal"
+  },
+  {
+    "short_name": "boar",
+    "name": "Boar",
+    "filename": "1f417.svg",
+    "unified": "1F417",
+    "category": "Animals & Nature",
+    "subcategory": "animal-mammal"
+  },
+  {
+    "short_name": "monkey_face",
+    "name": "Monkey",
+    "filename": "1f435.svg",
+    "unified": "1F435",
+    "category": "Animals & Nature",
+    "subcategory": "animal-mammal"
+  },
+  {
+    "short_name": "hamster",
+    "name": "Hamster",
+    "filename": "1f439.svg",
+    "unified": "1F439",
+    "category": "Animals & Nature",
+    "subcategory": "animal-mammal"
+  },
+  {
+    "short_name": "poodle",
+    "name": "Poodle",
+    "filename": "1f429.svg",
+    "unified": "1F429",
+    "category": "Animals & Nature",
+    "subcategory": "animal-mammal"
+  },
+  {
+    "short_name": "sheep",
+    "name": "Sheep",
+    "filename": "1f411.svg",
+    "unified": "1F411",
+    "category": "Animals & Nature",
+    "subcategory": "animal-mammal"
+  },
+  {
+    "short_name": "snake",
+    "name": "Snake",
+    "filename": "1f40d.svg",
+    "unified": "1F40D",
+    "category": "Animals & Nature",
+    "subcategory": "animal-reptile"
+  },
+  {
+    "short_name": "tropical_fish",
+    "name": "Tropical Fish",
+    "filename": "1f420.svg",
+    "unified": "1F420",
+    "category": "Animals & Nature",
+    "subcategory": "animal-marine"
+  },
+  {
+    "short_name": "shell",
+    "name": "Shell",
+    "filename": "1f41a.svg",
+    "unified": "1F41A",
+    "category": "Animals & Nature",
+    "subcategory": "animal-marine"
+  },
+  {
+    "short_name": "bug",
+    "name": "Bug",
+    "filename": "1f41b.svg",
+    "unified": "1F41B",
+    "category": "Animals & Nature",
+    "subcategory": "animal-bug"
+  },
+  {
+    "short_name": "bee",
+    "name": "Bee",
+    "filename": "1f41d.svg",
+    "unified": "1F41D",
+    "category": "Animals & Nature",
+    "subcategory": "animal-bug"
+  },
+  {
+    "short_name": "crab",
+    "name": "Crab",
+    "filename": "1f980.svg",
+    "unified": "1F980",
+    "category": "Food & Drink",
+    "subcategory": "food-marine"
+  },
+  {
+    "short_name": "scorpion",
+    "name": "Scorpion",
+    "filename": "1f982.svg",
+    "unified": "1F982",
+    "category": "Animals & Nature",
+    "subcategory": "animal-bug"
+  },
+  {
+    "short_name": "spider",
+    "name": "Spider",
+    "filename": "1f577.svg",
+    "unified": "1F577-FE0F",
+    "category": "Animals & Nature",
+    "subcategory": "animal-bug"
+  },
+  {
+    "short_name": "feet",
+    "name": "Paw Prints",
+    "filename": "1f43e.svg",
+    "unified": "1F43E",
+    "category": "Animals & Nature",
+    "subcategory": "animal-mammal"
+  },
+  {
+    "short_name": "eyes",
+    "name": "Eyes",
+    "filename": "1f440.svg",
+    "unified": "1F440",
+    "category": "People & Body",
+    "subcategory": "body-parts"
+  },
+  {
+    "short_name": "ear",
+    "name": "Ear",
+    "filename": "1f442-1f3fb.svg",
+    "unified": "1F442",
+    "category": "People & Body",
+    "subcategory": "body-parts"
+  },
+  {
+    "short_name": "nose",
+    "name": "Nose",
+    "filename": "1f443-1f3fb.svg",
+    "unified": "1F443",
+    "category": "People & Body",
+    "subcategory": "body-parts"
+  },
+  {
+    "short_name": "lips",
+    "name": "Lips",
+    "filename": "1f444.svg",
+    "unified": "1F444",
+    "category": "People & Body",
+    "subcategory": "body-parts"
+  },
+  {
+    "short_name": "tongue",
+    "name": "Tongue",
+    "filename": "1f445.svg",
+    "unified": "1F445",
+    "category": "People & Body",
+    "subcategory": "body-parts"
+  },
+  {
+    "short_name": "sparkles",
+    "name": "Sparkles",
+    "filename": "2728.svg",
+    "unified": "2728",
+    "category": "Activities",
+    "subcategory": "event"
+  },
+  {
+    "short_name": "zzz",
+    "name": "Sleep",
+    "filename": "1f4a4.svg",
+    "unified": "1F4A4",
+    "category": "Smileys & Emotion",
+    "subcategory": "emotion"
+  }
+]
